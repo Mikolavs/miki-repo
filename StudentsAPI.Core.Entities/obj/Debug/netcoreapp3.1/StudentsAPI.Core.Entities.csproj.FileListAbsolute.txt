@@ -1,0 +1,16 @@
+d:\TIS\Learning\Tema4\StudentsAPI\StudentsAPI.Core.Entities\bin\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.deps.json
+d:\TIS\Learning\Tema4\StudentsAPI\StudentsAPI.Core.Entities\bin\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.dll
+d:\TIS\Learning\Tema4\StudentsAPI\StudentsAPI.Core.Entities\bin\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.pdb
+d:\TIS\Learning\Tema4\StudentsAPI\StudentsAPI.Core.Entities\obj\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.AssemblyInfoInputs.cache
+d:\TIS\Learning\Tema4\StudentsAPI\StudentsAPI.Core.Entities\obj\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.AssemblyInfo.cs
+d:\TIS\Learning\Tema4\StudentsAPI\StudentsAPI.Core.Entities\obj\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.dll
+d:\TIS\Learning\Tema4\StudentsAPI\StudentsAPI.Core.Entities\obj\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.pdb
+d:\TIS\Learning\Tema4\StudentsAPI\StudentsAPI.Core.Entities\obj\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.csprojAssemblyReference.cache
+E:\Miki\.Net Core\Tema4\StudentsAPI\StudentsAPI.Core.Entities\bin\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.deps.json
+E:\Miki\.Net Core\Tema4\StudentsAPI\StudentsAPI.Core.Entities\bin\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.dll
+E:\Miki\.Net Core\Tema4\StudentsAPI\StudentsAPI.Core.Entities\bin\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.pdb
+E:\Miki\.Net Core\Tema4\StudentsAPI\StudentsAPI.Core.Entities\obj\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.csprojAssemblyReference.cache
+E:\Miki\.Net Core\Tema4\StudentsAPI\StudentsAPI.Core.Entities\obj\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.AssemblyInfoInputs.cache
+E:\Miki\.Net Core\Tema4\StudentsAPI\StudentsAPI.Core.Entities\obj\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.AssemblyInfo.cs
+E:\Miki\.Net Core\Tema4\StudentsAPI\StudentsAPI.Core.Entities\obj\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.dll
+E:\Miki\.Net Core\Tema4\StudentsAPI\StudentsAPI.Core.Entities\obj\Debug\netcoreapp3.1\StudentsAPI.Core.Entities.pdb
