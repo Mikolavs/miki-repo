@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Miki\\.Net Core\\Tema\\StudentsAPI\\StudentsAPI.csproj": {}
+    "E:\\Miki\\.Net Core\\Tema\\StudentsAPIClient.IntegrationTests\\StudentsAPIClient.IntegrationTests.csproj": {}
   },
   "projects": {
     "E:\\Miki\\.Net Core\\Tema\\StudentsAPI.Core.Entities\\StudentsAPI.Core.Entities.csproj": {
@@ -48,14 +48,65 @@
         }
       }
     },
-    "E:\\Miki\\.Net Core\\Tema\\StudentsAPI\\StudentsAPI.csproj": {
+    "E:\\Miki\\.Net Core\\Tema\\StudentsAPIClient.IntegrationTests\\StudentsAPIClient.IntegrationTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Miki\\.Net Core\\Tema\\StudentsAPI\\StudentsAPI.csproj",
-        "projectName": "StudentsAPI",
-        "projectPath": "E:\\Miki\\.Net Core\\Tema\\StudentsAPI\\StudentsAPI.csproj",
+        "projectUniqueName": "E:\\Miki\\.Net Core\\Tema\\StudentsAPIClient.IntegrationTests\\StudentsAPIClient.IntegrationTests.csproj",
+        "projectName": "StudentsAPIClient.IntegrationTests",
+        "projectPath": "E:\\Miki\\.Net Core\\Tema\\StudentsAPIClient.IntegrationTests\\StudentsAPIClient.IntegrationTests.csproj",
         "packagesPath": "C:\\Users\\miklo\\.nuget\\packages\\",
-        "outputPath": "E:\\Miki\\.Net Core\\Tema\\StudentsAPI\\obj\\",
+        "outputPath": "E:\\Miki\\.Net Core\\Tema\\StudentsAPIClient.IntegrationTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\miklo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Miki\\.Net Core\\Tema\\StudentsAPI.Core.Entities\\StudentsAPI.Core.Entities.csproj": {
+                "projectPath": "E:\\Miki\\.Net Core\\Tema\\StudentsAPI.Core.Entities\\StudentsAPI.Core.Entities.csproj"
+              },
+              "E:\\Miki\\.Net Core\\Tema\\StudentsAPIClient\\StudentsAPIClient.csproj": {
+                "projectPath": "E:\\Miki\\.Net Core\\Tema\\StudentsAPIClient\\StudentsAPIClient.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\Miki\\.Net Core\\Tema\\StudentsAPIClient\\StudentsAPIClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Miki\\.Net Core\\Tema\\StudentsAPIClient\\StudentsAPIClient.csproj",
+        "projectName": "StudentsAPIClient",
+        "projectPath": "E:\\Miki\\.Net Core\\Tema\\StudentsAPIClient\\StudentsAPIClient.csproj",
+        "packagesPath": "C:\\Users\\miklo\\.nuget\\packages\\",
+        "outputPath": "E:\\Miki\\.Net Core\\Tema\\StudentsAPIClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
